@@ -1,8 +1,15 @@
 {
   "sections": {
     "main": {
-      "type": "main-redirect"
+      "type": "main-redirect",
+      "custom_css": [
+        "h1 {text-transform: uppercase;}"
+      ],
+      "settings": {
+      }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main"
+  ]
 }
