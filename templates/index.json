@@ -3,7 +3,7 @@
     "main": {
       "type": "main-redirect",
       "custom_css": [
-        "h1 {text-transform: uppercase !important;}"
+
       ],
       "settings": {
       }
