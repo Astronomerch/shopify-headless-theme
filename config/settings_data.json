@@ -1,6 +1,9 @@
 {
   "current": {
     "storefront_hostname": "dev.astronomerch.com",
+    "type_header_font": "helvetica_n7",
+    "heading_scale": 100,
+    "type_body_font": "helvetica_n4",
     "content_for_index": [
 
     ]
